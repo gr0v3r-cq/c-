@@ -1,0 +1,5 @@
+/Users/gr0v3r/Projects/appjsonconverter/DllConverter/bin/Debug/DllConverter.dll
+/Users/gr0v3r/Projects/appjsonconverter/DllConverter/bin/Debug/DllConverter.pdb
+/Users/gr0v3r/Projects/appjsonconverter/DllConverter/obj/Debug/DllConverter.csproj.CoreCompileInputs.cache
+/Users/gr0v3r/Projects/appjsonconverter/DllConverter/obj/Debug/DllConverter.dll
+/Users/gr0v3r/Projects/appjsonconverter/DllConverter/obj/Debug/DllConverter.pdb

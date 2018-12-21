@@ -1,0 +1,9 @@
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/bin/Debug/appjsonconverter.exe
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/bin/Debug/appjsonconverter.pdb
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/obj/x86/Debug/appjsonconverter.csprojAssemblyReference.cache
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/obj/x86/Debug/appjsonconverter.csproj.CoreCompileInputs.cache
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/obj/x86/Debug/appjsonconverter.exe
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/obj/x86/Debug/appjsonconverter.pdb
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/bin/Debug/DllConverter.dll
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/bin/Debug/DllConverter.pdb
+/Users/gr0v3r/Projects/appjsonconverter/appjsonconverter/obj/x86/Debug/appjsonconverter.csproj.CopyComplete

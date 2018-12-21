@@ -1,0 +1,13 @@
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/bin/Release/ConsoleApp1.exe.config
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/bin/Release/ConsoleApp1.exe
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/bin/Release/ConsoleApp1.pdb
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/bin/Release/dllConverter.dll
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/bin/Release/Newtonsoft.Json.dll
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/bin/Release/dllConverter.pdb
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/bin/Release/Newtonsoft.Json.pdb
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/bin/Release/Newtonsoft.Json.xml
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/obj/Release/ConsoleApp1.csprojAssemblyReference.cache
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/obj/Release/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/obj/Release/ConsoleApp1.csproj.CopyComplete
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/obj/Release/ConsoleApp1.exe
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/ConsoleApp1/obj/Release/ConsoleApp1.pdb

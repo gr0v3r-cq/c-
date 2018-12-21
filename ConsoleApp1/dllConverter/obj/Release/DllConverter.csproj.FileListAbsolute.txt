@@ -1,0 +1,5 @@
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/dllConverter/bin/Release/dllConverter.dll
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/dllConverter/bin/Release/dllConverter.pdb
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/dllConverter/obj/Release/DllConverter.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/dllConverter/obj/Release/dllConverter.dll
+/Applications/MAMP/htdocs/c#/c-/ConsoleApp1/dllConverter/obj/Release/dllConverter.pdb

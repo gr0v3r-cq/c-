@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{23481952-2FC2-4859-B7B0-4BBB33C340C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.appjsonconverter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DllConverter/MyClass.cs">
+    <Files>
+      <File FileName="appjsonconverter/Program.cs" Line="10" Column="1592" />
+      <File FileName="DllConverter/MyClass.cs" Line="48" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
