@@ -1,0 +1,6 @@
+C:\Users\Developer\source\repos\ConsoleApp1\dllConverter\bin\Debug\dllConverter.dll
+C:\Users\Developer\source\repos\ConsoleApp1\dllConverter\bin\Debug\dllConverter.pdb
+C:\Users\Developer\source\repos\ConsoleApp1\dllConverter\obj\Debug\DllConverter.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\ConsoleApp1\dllConverter\obj\Debug\DllConverter.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\ConsoleApp1\dllConverter\obj\Debug\dllConverter.dll
+C:\Users\Developer\source\repos\ConsoleApp1\dllConverter\obj\Debug\dllConverter.pdb
